@@ -1,0 +1,13 @@
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\bin\Debug\netcoreapp3.1\LINQ-Lambda.exe
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\bin\Debug\netcoreapp3.1\LINQ-Lambda.deps.json
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\bin\Debug\netcoreapp3.1\LINQ-Lambda.runtimeconfig.json
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\bin\Debug\netcoreapp3.1\LINQ-Lambda.runtimeconfig.dev.json
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\bin\Debug\netcoreapp3.1\LINQ-Lambda.dll
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\bin\Debug\netcoreapp3.1\LINQ-Lambda.pdb
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.csprojAssemblyReference.cache
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.AssemblyInfo.cs
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.dll
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.pdb
+C:\Users\amora\source\repos\LINQ-Lambda\LINQ-Lambda\obj\Debug\netcoreapp3.1\LINQ-Lambda.genruntimeconfig.cache
